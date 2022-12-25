@@ -1,4 +1,5 @@
 # real_estate_viewing_nerf
+<<<<<<< HEAD
 Goal: Give me 4 or 5 images of your beautiful mansion and  I will give you the 3D nerf model of that house
 
 ## Image Generation Pipeline Google:https://github.com/google-research/kubric/tree/20735bf6ef60ea57566b38283e84e602a885cd10
@@ -27,3 +28,9 @@ Steps:
 
 4. tailwind.css --> you style yourself. (tailwind.css)
 5. 
+=======
+1. Give me 4 or 5 images of your beautiful mansion and  I will give you the 3D nerf model of that house
+
+2. Do this and write the app for NextJS Tutorial.
+3. javascript NextJS Tutorial --> use the same idea and components to build my own website for the Real Estate Viewing. Then we host all the Nerfs model there.
+>>>>>>> ff67952389ebfb6012bf012dce63914a53ce2bff
